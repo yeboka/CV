@@ -1,2 +1,2 @@
 # CV
-my resume
+my resume and transcript
